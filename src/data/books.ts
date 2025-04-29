@@ -20,13 +20,15 @@ export const bookData: Book[] = [
     title: "When We are Kind",
     author: "Monique Gray Smith",
     description: "This book shares different ways that children can be kind to the people and world around them. It also touches on how we feel when others are kind to us, or when we are kind to ourselves. It is a very simple, straightforward message that can give kindergartens inspiration of kind things they can do themselves.",
-    grade: "Kindergarten"
+    grade: "Kindergarten",
+    coverImage: "/lovable-uploads/df281ec4-a480-4704-b8b6-4e9d575d23fe.png"
   },
   {
     title: "What if",
     author: "Samantha Berger",
     description: "This story follows a girl in her wild imagination of all of the ways she can exercise her creativity. Being creative, and expressing ourselves through art is a huge way that we can learn about ourselves and our identities. This story promotes that idea, on top of never giving up and finding ways to make do with what you have.",
-    grade: "Kindergarten"
+    grade: "Kindergarten",
+    coverImage: "/lovable-uploads/cc2db83a-be60-4add-b5a6-816179fb57aa.png"
   },
   {
     title: "I am Peace: A book of Mindfulness",
@@ -55,7 +57,8 @@ export const bookData: Book[] = [
     title: "We Are Grateful: Otsaliheliga",
     author: "Traci Sorell",
     description: "This book, written by a citizen of the Cherokee Nation, shares the experiences the tribe is grateful for throughout the year. It reminds us to celebrate our blessings and remember to give gratitude to the world and people around us.",
-    grade: "First Grade"
+    grade: "First Grade",
+    coverImage: "/lovable-uploads/fdbe5f85-f6eb-4331-bca8-65357b1c236d.png"
   },
   {
     title: "The Day you Begin",
@@ -91,7 +94,8 @@ export const bookData: Book[] = [
     title: "The Proudest blue",
     author: "S.K Ali and Ibtihaj Muhammad",
     description: "In this story, a young girl watches her sister wear a Hijab for the first time. Many of their classmates don't understand, but no matter what the sisters are proud of what the Hijab represents to their Muslim faith and culture. It explores themes of courage and pride in where you come from.",
-    grade: "Second Grade"
+    grade: "Second Grade",
+    coverImage: "/lovable-uploads/1bccd6e5-e044-49ec-828e-1dcd5d559088.png"
   },
   {
     title: "My day With Panye",
@@ -104,7 +108,8 @@ export const bookData: Book[] = [
     title: "The Many Colors of Harpreet Singh",
     author: "Supriya Kelkar",
     description: "This book is about a boy who LOVES color, but moves to a new school where everything feels grey. He adjusts and overcomes through expressing his feelings with color, through themes of cultural expression and identity.",
-    grade: "Second Grade"
+    grade: "Second Grade",
+    coverImage: "/lovable-uploads/1d676fbb-efa5-4118-a333-3899c61f2743.png"
   },
   
   // Third Grade Books
@@ -193,7 +198,8 @@ export const bookData: Book[] = [
     title: "The Parker Inheritance",
     author: "Varian Johnson",
     description: "This is a mystery novel focusing on race relations through uncovering the connections between the past and present.  It discusses a lot of history in a very engaging, fast paced way, touching on themes of friendship, social awareness and racial justice.",
-    grade: "Fifth Grade"
+    grade: "Fifth Grade",
+    coverImage: "/lovable-uploads/478fd3e1-4f61-46f8-bc92-e8f6120d2208.png"
   },
 ];
 
