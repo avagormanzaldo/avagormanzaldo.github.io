@@ -30,7 +30,7 @@ const BooksPage = () => {
 
           {grades.map(grade => (
             <TabsContent key={grade} value={grade}>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              <div className="grid grid-cols-1 gap-6">
                 {bookData
                   .filter(book => book.grade === grade)
                   .map((book, index) => (
@@ -40,6 +40,7 @@ const BooksPage = () => {
                       author={book.author}
                       description={book.description}
                       colorClass={colorClasses[index % colorClasses.length]}
+                      coverImage={book.coverImage}
                     />
                   ))}
               </div>
