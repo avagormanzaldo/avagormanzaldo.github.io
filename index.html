@@ -41,11 +41,8 @@
       const urlParams = new URLSearchParams(window.location.search);
       const path = urlParams.get('path');
       if (path) {
-        // Remove the base path from the URL
-        const basePath = '/equity-sel-library-19';
-        const route = path.replace(basePath, '');
         // Update the URL without the query parameter
-        window.history.replaceState(null, null, basePath + route);
+        window.history.replaceState(null, null, path);
       }
     </script>
   </head>
