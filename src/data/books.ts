@@ -21,14 +21,14 @@ export const bookData: Book[] = [
     author: "Monique Gray Smith",
     description: "This book shares different ways that children can be kind to the people and world around them. It also touches on how we feel when others are kind to us, or when we are kind to ourselves. It is a very simple, straightforward message that can give kindergartens inspiration of kind things they can do themselves.",
     grade: "Kindergarten",
-    coverImage: "/lovable-uploads/df281ec4-a480-4704-b8b6-4e9d575d23fe.png"
+    coverImage: "/lovable-uploads/cc2db83a-be60-4add-b5a6-816179fb57aa.png"
   },
   {
     title: "What if",
     author: "Samantha Berger",
     description: "This story follows a girl in her wild imagination of all of the ways she can exercise her creativity. Being creative, and expressing ourselves through art is a huge way that we can learn about ourselves and our identities. This story promotes that idea, on top of never giving up and finding ways to make do with what you have.",
     grade: "Kindergarten",
-    coverImage: "/lovable-uploads/cc2db83a-be60-4add-b5a6-816179fb57aa.png"
+    coverImage: "/lovable-uploads/df281ec4-a480-4704-b8b6-4e9d575d23fe.png"
   },
   {
     title: "I am Peace: A book of Mindfulness",
@@ -65,7 +65,7 @@ export const bookData: Book[] = [
     author: "Jaqueline Woodson",
     description: "This book touches on feeling like an outsider, but having the courage and bravery to push forward anyway. It discusses the power of sharing our stories and our voices, even when we feel we don't fit in. Themes of perseverance through a story that a lot of children can relate to.",
     grade: "First Grade",
-    coverImage: "/lovable-uploads/c0cbc4ab-b395-40ca-b73c-ec928576281f.png"
+    coverImage: "/lovable-uploads/f902bab8-f9dc-47a3-a20b-68d1a9ce3a20.png"
   },
   {
     title: "Last Stop on Market Street",
@@ -88,28 +88,28 @@ export const bookData: Book[] = [
     author: "Oge Mora",
     description: "This story is about a young girl, Ava, whose mom works every day of the week except Saturdays, so that is their very special day. On this particular Saturday, everything starts to go wrong, but Ava and her mom learn to appreciate the value in the time they are spending together, despite everything else.",
     grade: "Second Grade",
-    coverImage: "/lovable-uploads/fd61861c-624f-4b8c-992c-278f6d47803f.png"
+    coverImage: "/lovable-uploads/c0cbc4ab-b395-40ca-b73c-ec928576281f.png"
   },
   {
     title: "The Proudest blue",
     author: "S.K Ali and Ibtihaj Muhammad",
     description: "In this story, a young girl watches her sister wear a Hijab for the first time. Many of their classmates don't understand, but no matter what the sisters are proud of what the Hijab represents to their Muslim faith and culture. It explores themes of courage and pride in where you come from.",
     grade: "Second Grade",
-    coverImage: "/lovable-uploads/1bccd6e5-e044-49ec-828e-1dcd5d559088.png"
+    coverImage: "/lovable-uploads/478fd3e1-4f61-46f8-bc92-e8f6120d2208.png"
   },
   {
     title: "My day With Panye",
     author: "Tami Charles",
     description: "This story is about A Haitian Granddaughter and her Grandmother as they celebrate their culture through a family recipe and story of freedom. The young girl learns about traditions and patience as she learns to carry the family's Panye (basket) on her head.",
     grade: "Second Grade",
-    coverImage: "/lovable-uploads/2a0f7426-fcf6-45ec-96a8-294a6d1c646e.png"
+    coverImage: "/lovable-uploads/4731ccd9-cde4-4934-8855-a788a91bc881.png"
   },
   {
     title: "The Many Colors of Harpreet Singh",
     author: "Supriya Kelkar",
     description: "This book is about a boy who LOVES color, but moves to a new school where everything feels grey. He adjusts and overcomes through expressing his feelings with color, through themes of cultural expression and identity.",
     grade: "Second Grade",
-    coverImage: "/lovable-uploads/1d676fbb-efa5-4118-a333-3899c61f2743.png"
+    coverImage: "/lovable-uploads/1bccd6e5-e044-49ec-828e-1dcd5d559088.png"
   },
   
   // Third Grade Books
@@ -118,28 +118,28 @@ export const bookData: Book[] = [
     author: "Crystal Hubbard",
     description: "This is a true story of a girl who defied gender norms and became the first woman to play baseball in an all men professional team. She overcomes discouragement from family, coaches and general society, and lives out her dreams with confidence.",
     grade: "Third Grade",
-    coverImage: "/lovable-uploads/d73de192-e7b9-4814-8785-306817d42a70.png"
+    coverImage: "/lovable-uploads/6ef64e98-9041-4130-8926-9d47fb2a1ab8.png"
   },
   {
     title: "Stacey's Extraordinary Words",
     author: "Stacey Abrams",
     description: "Based on the author's childhood, this book tells the story of a young girl with an appreciation for words. It encourages our students to embrace their passions and use their voices, even when they feel different.",
     grade: "Third Grade",
-    coverImage: "/lovable-uploads/f902bab8-f9dc-47a3-a20b-68d1a9ce3a20.png"
+    coverImage: "/lovable-uploads/fd61861c-624f-4b8c-992c-278f6d47803f.png"
   },
   {
     title: "Amy Wu and the Patchwork Dragon",
     author: "Kat Zhang",
     description: "This book is about a girl who thrives during crafts at school. This day, she is stuck on how she wants to make her dragon, nothing feels quite right. Through the process, she celebrates her cultural roots, encouraging themes of pride, friendship and creativity.",
     grade: "Third Grade",
-    coverImage: "/lovable-uploads/6ef64e98-9041-4130-8926-9d47fb2a1ab8.png"
+    coverImage: "/lovable-uploads/4a96cf88-1cdd-479f-baea-690b643f6135.png"
   },
   {
     title: "I am Every Good Thing",
     author: "Derrick Barnes",
     description: "This book directly addresses the negative labels or stereotypes that black boys may face, and combates them with power and resilience. It is an inspirational book, promoting positive self image through affirmations such as 'I am brave,' and 'I am my ancestors' wildest dreams.'",
     grade: "Third Grade",
-    coverImage: "/lovable-uploads/eeab9d14-8e79-4b36-b8f7-1bfd45631459.png"
+    coverImage: "/lovable-uploads/d73de192-e7b9-4814-8785-306817d42a70.png"
   },
   
   // Fourth Grade Books
@@ -148,14 +148,14 @@ export const bookData: Book[] = [
     author: "Kwame Alexander",
     description: "This is a novel about twin brothers pursuing their love for basketball. Tensions build between them, with added pressures of school and family coming into play, but the boys overcome. There are strong themes of identity, as well as emotional growth.",
     grade: "Fourth Grade",
-    coverImage: "/lovable-uploads/593e6d93-ed63-4b56-a94c-dcef17da0984.png"
+    coverImage: "/lovable-uploads/eeab9d14-8e79-4b36-b8f7-1bfd45631459.png"
   },
   {
     title: "Pashmina",
     author: "Nidhi Chanani",
     description: "This graphic novel follows a teen girl who Idolizes her mother's homeland, India. She finds a magical Pashmini that she can use to visit India and learns about her family and her roots on her journey. It is a very engaging story, with themes of cultural identity and family.",
     grade: "Fourth Grade",
-    coverImage: "/lovable-uploads/4a96cf88-1cdd-479f-baea-690b643f6135.png"
+    coverImage: "/lovable-uploads/2a0f7426-fcf6-45ec-96a8-294a6d1c646e.png"
   },
   {
     title: "Inside out and Back Again",
@@ -169,7 +169,7 @@ export const bookData: Book[] = [
     author: "Celia C. Perez",
     description: "This book is about a punk rock loving, Mexican American teen girl, learning about finding your place in the world and expressing yourself exactly as you are. It explores themes of cultural pride and self expression in a beautiful and relatable way for many students.",
     grade: "Fourth Grade",
-    coverImage: "/lovable-uploads/4731ccd9-cde4-4934-8855-a788a91bc881.png"
+    coverImage: "/lovable-uploads/593e6d93-ed63-4b56-a94c-dcef17da0984.png"
   },
   
   // Fifth Grade Books
@@ -199,7 +199,7 @@ export const bookData: Book[] = [
     author: "Varian Johnson",
     description: "This is a mystery novel focusing on race relations through uncovering the connections between the past and present.  It discusses a lot of history in a very engaging, fast paced way, touching on themes of friendship, social awareness and racial justice.",
     grade: "Fifth Grade",
-    coverImage: "/lovable-uploads/478fd3e1-4f61-46f8-bc92-e8f6120d2208.png"
+    coverImage: "/lovable-uploads/1d676fbb-efa5-4118-a333-3899c61f2743.png"
   },
 ];
 
