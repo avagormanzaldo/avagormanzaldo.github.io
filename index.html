@@ -35,6 +35,19 @@
       }(window.location))
     </script>
     <!-- End Single Page Apps for GitHub Pages -->
+
+    <script>
+      // Handle path parameter from 404 redirect
+      const urlParams = new URLSearchParams(window.location.search);
+      const path = urlParams.get('path');
+      if (path) {
+        // Remove the base path from the URL
+        const basePath = '/equity-sel-library-19';
+        const route = path.replace(basePath, '');
+        // Update the URL without the query parameter
+        window.history.replaceState(null, null, basePath + route);
+      }
+    </script>
   </head>
 
   <body>
