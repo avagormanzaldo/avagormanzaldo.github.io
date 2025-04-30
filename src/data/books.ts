@@ -14,7 +14,7 @@ export const bookData: Book[] = [
     author: "Arthur Dorros",
     description: "This book shares the adventures of a young girl and her Grandmother as they fly around over their city. It touches on family dynamics and support, as well as the ways we can connect with our identity. It is also written in both Spanish and English, so could be very engaging for readers who speak Spanish and are learning English.",
     grade: "Kindergarten",
-    coverImage: "/lovable-uploads/7e0b7b6e-b306-4db7-8b13-9e51b26e130b.png"
+    coverImage: "/lovable-uploads/b33d8165-3e86-4f24-b61b-a384a12a6a1f.png"
   },
   {
     title: "When We are Kind",
@@ -35,7 +35,7 @@ export const bookData: Book[] = [
     author: "Susan Verde",
     description: "This book follows a child as they connect with the world around them and navigate overwhelming feelings. Perfect guide of how young children can practice mindfulness in their own lives.",
     grade: "Kindergarten",
-    coverImage: "/lovable-uploads/552843ed-4b18-49a8-a338-703258a7e0ad.png"
+    coverImage: "/lovable-uploads/1baf5203-ba75-49c8-8c3d-aac8bb6b6aba.png"
   },
   
   // First Grade Books
@@ -44,14 +44,14 @@ export const bookData: Book[] = [
     author: "Joanna Ho",
     description: "A young girl embraces her Asian heritage through love, support and self acceptance. She realizes her eyes look different than her peers, but learns to embrace them and the stories that they hold.",
     grade: "First Grade",
-    coverImage: "/lovable-uploads/1baf5203-ba75-49c8-8c3d-aac8bb6b6aba.png"
+    coverImage: "/lovable-uploads/99117ae1-cf19-4bd2-a741-d3b06bca0b38.png"
   },
   {
     title: "Bilal Cooks Daal",
     author: "Aisha Saeed",
     description: "A young boy Bilal helps his father cook their favorite meal, and he introduces it to his friends. Daal is a dish from South Asia that requires much patience and is different from foods his friends are used to. It explores themes of sharing, kindness and curiosity when it comes to cultures that are different from our own.",
     grade: "First Grade",
-    coverImage: "/lovable-uploads/99117ae1-cf19-4bd2-a741-d3b06bca0b38.png"
+    coverImage: "/lovable-uploads/269ed3f4-31a6-4535-9bb9-456488280b8c.png"
   },
   {
     title: "We Are Grateful: Otsaliheliga",
@@ -72,7 +72,7 @@ export const bookData: Book[] = [
     author: "Matt De La Pena",
     description: "This story follows a young boy, CJ and his Grandmother on their adventures riding the bus across town. This story emphasizes the importance of community, helping others and finding the beauty in differences. The Grandmother encourages CJ to appreciate the many wonders of the life they live and the people around them.",
     grade: "First Grade",
-    coverImage: "/lovable-uploads/08057e98-1e44-4692-931b-103bed0fd3c2.png"
+    coverImage: "/lovable-uploads/618a1c2c-fe87-4b11-9efd-4a195c17e028.png"
   },
   
   // Second Grade Books
@@ -81,7 +81,7 @@ export const bookData: Book[] = [
     author: "Jasmyn Wright",
     description: "This book celebrates resilience and power, even in the face of adversity. It is based on the mantra that the author emphasizes to her students, that we should always believe in ourselves. It uses call and response to have students call out and celebrate the power that they hold within them.",
     grade: "Second Grade",
-    coverImage: "/lovable-uploads/618a1c2c-fe87-4b11-9efd-4a195c17e028.png"
+    coverImage: "/lovable-uploads/7e0b7b6e-b306-4db7-8b13-9e51b26e130b.png/"
   },
   {
     title: "Saturday",
@@ -139,7 +139,7 @@ export const bookData: Book[] = [
     author: "Derrick Barnes",
     description: "This book directly addresses the negative labels or stereotypes that black boys may face, and combates them with power and resilience. It is an inspirational book, promoting positive self image through affirmations such as 'I am brave,' and 'I am my ancestors' wildest dreams.'",
     grade: "Third Grade",
-    coverImage: "/lovable-uploads/4731ccd9-cde4-4934-8855-a788a91bc881.png"
+    coverImage: "/lovable-uploads/eeab9d14-8e79-4b36-b8f7-1bfd45631459.png"
   },
   
   // Fourth Grade Books
@@ -162,14 +162,14 @@ export const bookData: Book[] = [
     author: "Thanhha Lai",
     description: "This is a story about a girl who immigrated to the US from Vietnam during the Vietnam war in the 70s. The young girl learns to manage her feelings in this new place, touching on themes of hope, loss and identity.",
     grade: "Fourth Grade",
-    coverImage: "/lovable-uploads/eeab9d14-8e79-4b36-b8f7-1bfd45631459.png"
+    coverImage: "/lovable-uploads/1236f007-f4b1-487d-8d81-f63856e95cb6.png"
   },
   {
     title: "The First Rule of Punk",
     author: "Celia C. Perez",
     description: "This book is about a punk rock loving, Mexican American teen girl, learning about finding your place in the world and expressing yourself exactly as you are. It explores themes of cultural pride and self expression in a beautiful and relatable way for many students.",
     grade: "Fourth Grade",
-    coverImage: "/lovable-uploads/269ed3f4-31a6-4535-9bb9-456488280b8c.png"
+    coverImage: "/lovable-uploads/4731ccd9-cde4-4934-8855-a788a91bc881.png"
   },
   
   // Fifth Grade Books
@@ -178,21 +178,21 @@ export const bookData: Book[] = [
     author: "Meg Medina",
     description: "This is a heartfelt story of a Cuban American girl in sixth grade who is navigating difficult changes with families and friends. Explores themes of change, identity and relationship skills, especially entering into middle school.",
     grade: "Fifth Grade",
-    coverImage: "/lovable-uploads/7123844a-c749-42ec-a3c9-c6d452976f65.png"
+    coverImage: "/lovable-uploads/552843ed-4b18-49a8-a338-703258a7e0ad.png"
   },
   {
     title: "Ghost Boys",
     author: "Jewell Parker Rhodes",
     description: "This is a powerful story about a young black boy named Jerome who is shot by a police officer and killed. As a ghost, he begins a journey of understanding the unjust social issues that led to his death, as he connects with other ghost boys along the way. Explores themes of racial injustice and empathy, portraying important messages of the society we live in.",
     grade: "Fifth Grade",
-    coverImage: "/lovable-uploads/1236f007-f4b1-487d-8d81-f63856e95cb6.png"
+    coverImage: "/lovable-uploads/08057e98-1e44-4692-931b-103bed0fd3c2.png"
   },
   {
     title: "A Good Kind of Trouble",
     author: "Lisa Moore Ramee",
     description: "This book is about a girl named Shayla, who is struggling with friendships and school. She learns about activism, and the importance of standing up for what's right through themes of injustice and racial tension.",
     grade: "Fifth Grade",
-    coverImage: "/lovable-uploads/b33d8165-3e86-4f24-b61b-a384a12a6a1f.png"
+    coverImage: "/lovable-uploads/7123844a-c749-42ec-a3c9-c6d452976f65.png"
   },
   {
     title: "The Parker Inheritance",
